@@ -1,0 +1,6 @@
+#map {
+    height: 800;
+    width: 1200;
+    background: url("svg/ttrMap.svg") no-repeat top left;
+    background-size: contain;
+}

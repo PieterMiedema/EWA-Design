@@ -1,0 +1,858 @@
+{
+    "data": [
+        {
+            "easy": [
+                {
+                    "name": "Amsterdam",
+                    "short": "ams",
+                    "x": 418,
+                    "y": 311
+                },
+                {
+                    "name": "Ankara",
+                    "short": "ank",
+                    "x": 1005,
+                    "y": 621
+                },
+                {
+                    "name": "Athens",
+                    "short": "ath",
+                    "x": 810,
+                    "y": 709
+                },
+                {
+                    "name": "Barcelona",
+                    "short": "bar",
+                    "x": 237,
+                    "y": 676
+                },
+                {
+                    "name": "Berlin",
+                    "short": "ber",
+                    "x": 555,
+                    "y": 327
+                },
+                {
+                    "name": "Brest",
+                    "short": "bre",
+                    "x": 235,
+                    "y": 405
+                },
+                {
+                    "name": "Brindisi",
+                    "short": "bri",
+                    "x": 644,
+                    "y": 652
+                },
+                {
+                    "name": "Brussels",
+                    "short": "bru",
+                    "x": 401,
+                    "y": 356
+                },
+                {
+                    "name": "Bucharest",
+                    "short": "buc",
+                    "x": 835,
+                    "y": 516
+                },
+                {
+                    "name": "Budapest",
+                    "short": "bud",
+                    "x": 688,
+                    "y": 456
+                },
+                {
+                    "name": "Copenhagen",
+                    "short": "cop",
+                    "x": 541,
+                    "y": 230
+                },
+                {
+                    "name": "Dieppe",
+                    "short": "die",
+                    "x": 300,
+                    "y": 394
+                },
+                {
+                    "name": "Edinburgh",
+                    "short": "edi",
+                    "x": 294,
+                    "y": 205
+                },
+                {
+                    "name": "Erzurum",
+                    "short": "erz",
+                    "x": 1121,
+                    "y": 572
+                },
+                {
+                    "name": "Essen",
+                    "short": "ess",
+                    "x": 482,
+                    "y": 321
+                },
+                {
+                    "name": "Frankfurt",
+                    "short": "fra",
+                    "x": 459,
+                    "y": 380
+                },
+                {
+                    "name": "Gadiz",
+                    "short": "gad",
+                    "x": 131,
+                    "y": 716
+                },
+                {
+                    "name": "Gdansk",
+                    "short": "gda",
+                    "x": 652,
+                    "y": 264
+                },
+                {
+                    "name": "Istanbul",
+                    "short": "ist",
+                    "x": 921,
+                    "y": 601
+                },
+                {
+                    "name": "Izmir",
+                    "short": "izm",
+                    "x": 893,
+                    "y": 684
+                },
+                {
+                    "name": "Kharkov",
+                    "short": "kha",
+                    "x": 972,
+                    "y": 304
+                },
+                {
+                    "name": "Kiev",
+                    "short": "kie",
+                    "x": 888,
+                    "y": 337
+                },
+                {
+                    "name": "Lisbon",
+                    "short": "lis",
+                    "x": 80,
+                    "y": 645
+                },
+                {
+                    "name": "London",
+                    "short": "lon",
+                    "x": 318,
+                    "y": 311
+                },
+                {
+                    "name": "Madrid",
+                    "short": "mad",
+                    "x": 172,
+                    "y": 646
+                },
+                {
+                    "name": "Marseille",
+                    "short": "mar",
+                    "x": 401,
+                    "y": 570
+                },
+                {
+                    "name": "Moscow",
+                    "short": "mos",
+                    "x": 969,
+                    "y": 163
+                },
+                {
+                    "name": "Munich",
+                    "short": "mun",
+                    "x": 518,
+                    "y": 420
+                },
+                {
+                    "name": "Palermo",
+                    "short": "pal",
+                    "x": 598,
+                    "y": 758
+                },
+                {
+                    "name": "Pamplona",
+                    "short": "pam",
+                    "x": 248,
+                    "y": 572
+                },
+                {
+                    "name": "Paris",
+                    "short": "par",
+                    "x": 361,
+                    "y": 428
+                },
+                {
+                    "name": "Petersburg, St.",
+                    "short": "pet",
+                    "x": 807,
+                    "y": 101
+                },
+                {
+                    "name": "Riga",
+                    "short": "rig",
+                    "x": 744,
+                    "y": 175
+                },
+                {
+                    "name": "Rome",
+                    "short": "rom",
+                    "x": 562,
+                    "y": 627
+                },
+                {
+                    "name": "Rostov",
+                    "short": "ros",
+                    "x": 1067,
+                    "y": 364
+                },
+                {
+                    "name": "Sarajevo",
+                    "short": "sar",
+                    "x": 678,
+                    "y": 562
+                },
+                {
+                    "name": "Sevastopol",
+                    "short": "sev",
+                    "x": 986,
+                    "y": 364
+                },
+                {
+                    "name": "Smollensk",
+                    "short": "smo",
+                    "x": 878,
+                    "y": 217
+                },
+                {
+                    "name": "Sochi",
+                    "short": "soc",
+                    "x": 1097,
+                    "y": 472
+                },
+                {
+                    "name": "Sofia",
+                    "short": "sof",
+                    "x": 820,
+                    "y": 586
+                },
+                {
+                    "name": "Stockholm",
+                    "short": "sto",
+                    "x": 630,
+                    "y": 126
+                },
+                {
+                    "name": "Venice",
+                    "short": "ven",
+                    "x": 536,
+                    "y": 512
+                },
+                {
+                    "name": "Vienna",
+                    "short": "vie",
+                    "x": 614,
+                    "y": 440
+                },
+                {
+                    "name": "Vilnius",
+                    "short": "vil",
+                    "x": 761,
+                    "y": 237
+                },
+                {
+                    "name": "Warsaw",
+                    "short": "war",
+                    "x": 698,
+                    "y": 314
+                },
+                {
+                    "name": "Zagreb",
+                    "short": "zag",
+                    "x": 628,
+                    "y": 507
+                },
+                {
+                    "name": "Zurich",
+                    "short": "zur",
+                    "x": 446,
+                    "y": 477
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+            "name": "Amsterdam",
+            "short": "ams",
+            "x": 418,
+            "y": 311
+        },
+        {
+            "name": "Ankara",
+            "short": "ank",
+            "x": 1005,
+            "y": 621
+        },
+        {
+            "name": "Athens",
+            "short": "ath",
+            "x": 810,
+            "y": 709
+        },
+        {
+            "name": "Barcelona",
+            "short": "bar",
+            "x": 237,
+            "y": 676
+        },
+        {
+            "name": "Berlin",
+            "short": "ber",
+            "x": 555,
+            "y": 327
+        },
+        {
+            "name": "Brest",
+            "short": "bre",
+            "x": 235,
+            "y": 405
+        },
+        {
+            "name": "Brindisi",
+            "short": "bri",
+            "x": 644,
+            "y": 652
+        },
+        {
+            "name": "Brussels",
+            "short": "bru",
+            "x": 401,
+            "y": 356
+        },
+        {
+            "name": "Bucharest",
+            "short": "buc",
+            "x": 835,
+            "y": 516
+        },
+        {
+            "name": "Budapest",
+            "short": "bud",
+            "x": 688,
+            "y": 456
+        },
+        {
+            "name": "Copenhagen",
+            "short": "cop",
+            "x": 541,
+            "y": 230
+        },
+        {
+            "name": "Dieppe",
+            "short": "die",
+            "x": 300,
+            "y": 394
+        },
+        {
+            "name": "Edinburgh",
+            "short": "edi",
+            "x": 294,
+            "y": 205
+        },
+        {
+            "name": "Erzurum",
+            "short": "erz",
+            "x": 1121,
+            "y": 572
+        },
+        {
+            "name": "Essen",
+            "short": "ess",
+            "x": 482,
+            "y": 321
+        },
+        {
+            "name": "Frankfurt",
+            "short": "fra",
+            "x": 459,
+            "y": 380
+        },
+        {
+            "name": "Gadiz",
+            "short": "gad",
+            "x": 131,
+            "y": 716
+        },
+        {
+            "name": "Gdansk",
+            "short": "gda",
+            "x": 652,
+            "y": 264
+        },
+        {
+            "name": "Istanbul",
+            "short": "ist",
+            "x": 921,
+            "y": 601
+        },
+        {
+            "name": "Izmir",
+            "short": "izm",
+            "x": 893,
+            "y": 684
+        },
+        {
+            "name": "Kharkov",
+            "short": "kha",
+            "x": 972,
+            "y": 304
+        },
+        {
+            "name": "Kiev",
+            "short": "kie",
+            "x": 888,
+            "y": 337
+        },
+        {
+            "name": "Lisbon",
+            "short": "lis",
+            "x": 80,
+            "y": 645
+        },
+        {
+            "name": "London",
+            "short": "lon",
+            "x": 318,
+            "y": 311
+        },
+        {
+            "name": "Madrid",
+            "short": "mad",
+            "x": 172,
+            "y": 646
+        },
+        {
+            "name": "Marseille",
+            "short": "mar",
+            "x": 401,
+            "y": 570
+        },
+        {
+            "name": "Moscow",
+            "short": "mos",
+            "x": 969,
+            "y": 163
+        },
+        {
+            "name": "Munich",
+            "short": "mun",
+            "x": 518,
+            "y": 420
+        },
+        {
+            "name": "Palermo",
+            "short": "pal",
+            "x": 598,
+            "y": 758
+        },
+        {
+            "name": "Pamplona",
+            "short": "pam",
+            "x": 248,
+            "y": 572
+        },
+        {
+            "name": "Paris",
+            "short": "par",
+            "x": 361,
+            "y": 428
+        },
+        {
+            "name": "Petersburg, St.",
+            "short": "pet",
+            "x": 807,
+            "y": 101
+        },
+        {
+            "name": "Riga",
+            "short": "rig",
+            "x": 744,
+            "y": 175
+        },
+        {
+            "name": "Rome",
+            "short": "rom",
+            "x": 562,
+            "y": 627
+        },
+        {
+            "name": "Rostov",
+            "short": "ros",
+            "x": 1067,
+            "y": 364
+        },
+        {
+            "name": "Sarajevo",
+            "short": "sar",
+            "x": 678,
+            "y": 562
+        },
+        {
+            "name": "Sevastopol",
+            "short": "sev",
+            "x": 986,
+            "y": 364
+        },
+        {
+            "name": "Smollensk",
+            "short": "smo",
+            "x": 878,
+            "y": 217
+        },
+        {
+            "name": "Sochi",
+            "short": "soc",
+            "x": 1097,
+            "y": 472
+        },
+        {
+            "name": "Sofia",
+            "short": "sof",
+            "x": 820,
+            "y": 586
+        },
+        {
+            "name": "Stockholm",
+            "short": "sto",
+            "x": 630,
+            "y": 126
+        },
+        {
+            "name": "Venice",
+            "short": "ven",
+            "x": 536,
+            "y": 512
+        },
+        {
+            "name": "Vienna",
+            "short": "vie",
+            "x": 614,
+            "y": 440
+        },
+        {
+            "name": "Vilnius",
+            "short": "vil",
+            "x": 761,
+            "y": 237
+        },
+        {
+            "name": "Warsaw",
+            "short": "war",
+            "x": 698,
+            "y": 314
+        },
+        {
+            "name": "Zagreb",
+            "short": "zag",
+            "x": 628,
+            "y": 507
+        },
+        {
+            "name": "Zurich",
+            "short": "zur",
+            "x": 446,
+            "y": 477
+        }
+    ],
+    "hard": [
+        {
+            "name": "Amsterdam",
+            "short": "ams",
+            "x": 418,
+            "y": 311
+        },
+        {
+            "name": "Ankara",
+            "short": "ank",
+            "x": 1005,
+            "y": 621
+        },
+        {
+            "name": "Athens",
+            "short": "ath",
+            "x": 810,
+            "y": 709
+        },
+        {
+            "name": "Barcelona",
+            "short": "bar",
+            "x": 237,
+            "y": 676
+        },
+        {
+            "name": "Berlin",
+            "short": "ber",
+            "x": 555,
+            "y": 327
+        },
+        {
+            "name": "Brest",
+            "short": "bre",
+            "x": 235,
+            "y": 405
+        },
+        {
+            "name": "Brindisi",
+            "short": "bri",
+            "x": 644,
+            "y": 652
+        },
+        {
+            "name": "Brussels",
+            "short": "bru",
+            "x": 401,
+            "y": 356
+        },
+        {
+            "name": "Bucharest",
+            "short": "buc",
+            "x": 835,
+            "y": 516
+        },
+        {
+            "name": "Budapest",
+            "short": "bud",
+            "x": 688,
+            "y": 456
+        },
+        {
+            "name": "Copenhagen",
+            "short": "cop",
+            "x": 541,
+            "y": 230
+        },
+        {
+            "name": "Dieppe",
+            "short": "die",
+            "x": 300,
+            "y": 394
+        },
+        {
+            "name": "Edinburgh",
+            "short": "edi",
+            "x": 294,
+            "y": 205
+        },
+        {
+            "name": "Erzurum",
+            "short": "erz",
+            "x": 1121,
+            "y": 572
+        },
+        {
+            "name": "Essen",
+            "short": "ess",
+            "x": 482,
+            "y": 321
+        },
+        {
+            "name": "Frankfurt",
+            "short": "fra",
+            "x": 459,
+            "y": 380
+        },
+        {
+            "name": "Gadiz",
+            "short": "gad",
+            "x": 131,
+            "y": 716
+        },
+        {
+            "name": "Gdansk",
+            "short": "gda",
+            "x": 652,
+            "y": 264
+        },
+        {
+            "name": "Istanbul",
+            "short": "ist",
+            "x": 921,
+            "y": 601
+        },
+        {
+            "name": "Izmir",
+            "short": "izm",
+            "x": 893,
+            "y": 684
+        },
+        {
+            "name": "Kharkov",
+            "short": "kha",
+            "x": 972,
+            "y": 304
+        },
+        {
+            "name": "Kiev",
+            "short": "kie",
+            "x": 888,
+            "y": 337
+        },
+        {
+            "name": "Lisbon",
+            "short": "lis",
+            "x": 80,
+            "y": 645
+        },
+        {
+            "name": "London",
+            "short": "lon",
+            "x": 318,
+            "y": 311
+        },
+        {
+            "name": "Madrid",
+            "short": "mad",
+            "x": 172,
+            "y": 646
+        },
+        {
+            "name": "Marseille",
+            "short": "mar",
+            "x": 401,
+            "y": 570
+        },
+        {
+            "name": "Moscow",
+            "short": "mos",
+            "x": 969,
+            "y": 163
+        },
+        {
+            "name": "Munich",
+            "short": "mun",
+            "x": 518,
+            "y": 420
+        },
+        {
+            "name": "Palermo",
+            "short": "pal",
+            "x": 598,
+            "y": 758
+        },
+        {
+            "name": "Pamplona",
+            "short": "pam",
+            "x": 248,
+            "y": 572
+        },
+        {
+            "name": "Paris",
+            "short": "par",
+            "x": 361,
+            "y": 428
+        },
+        {
+            "name": "Petersburg, St.",
+            "short": "pet",
+            "x": 807,
+            "y": 101
+        },
+        {
+            "name": "Riga",
+            "short": "rig",
+            "x": 744,
+            "y": 175
+        },
+        {
+            "name": "Rome",
+            "short": "rom",
+            "x": 562,
+            "y": 627
+        },
+        {
+            "name": "Rostov",
+            "short": "ros",
+            "x": 1067,
+            "y": 364
+        },
+        {
+            "name": "Sarajevo",
+            "short": "sar",
+            "x": 678,
+            "y": 562
+        },
+        {
+            "name": "Sevastopol",
+            "short": "sev",
+            "x": 986,
+            "y": 364
+        },
+        {
+            "name": "Smollensk",
+            "short": "smo",
+            "x": 878,
+            "y": 217
+        },
+        {
+            "name": "Sochi",
+            "short": "soc",
+            "x": 1097,
+            "y": 472
+        },
+        {
+            "name": "Sofia",
+            "short": "sof",
+            "x": 820,
+            "y": 586
+        },
+        {
+            "name": "Stockholm",
+            "short": "sto",
+            "x": 630,
+            "y": 126
+        },
+        {
+            "name": "Venice",
+            "short": "ven",
+            "x": 536,
+            "y": 512
+        },
+        {
+            "name": "Vienna",
+            "short": "vie",
+            "x": 614,
+            "y": 440
+        },
+        {
+            "name": "Vilnius",
+            "short": "vil",
+            "x": 761,
+            "y": 237
+        },
+        {
+            "name": "Warsaw",
+            "short": "war",
+            "x": 698,
+            "y": 314
+        },
+        {
+            "name": "Zagreb",
+            "short": "zag",
+            "x": 628,
+            "y": 507
+        },
+        {
+            "name": "Zurich",
+            "short": "zur",
+            "x": 446,
+            "y": 477
+        }
+    ]
+}
